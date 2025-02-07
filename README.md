@@ -6,6 +6,7 @@
 
 ## How to make notification
 ### - [click here](https://github.com/idlesign/django-sitemessage)
+### - [my dreams(with vpn)](https://www.digitalocean.com/community/tutorials/how-to-send-web-push-notifications-from-django-applications)
 
 ## Integration with 1C
 ### - [click here](https://habr.com/ru/sandbox/148354/)
