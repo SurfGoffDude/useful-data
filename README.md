@@ -9,3 +9,6 @@
 
 ## Integration with 1C
 ### - [click here](https://habr.com/ru/sandbox/148354/)
+
+## How to coonect to db server:
+### - [cleick here](https://www.8host.com/blog/kak-ispolzovat-postgresql-v-prilozhenii-django/)
