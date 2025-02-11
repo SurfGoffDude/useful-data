@@ -13,3 +13,6 @@
 
 ## How to coonect to db server:
 ### - [click here](https://www.8host.com/blog/kak-ispolzovat-postgresql-v-prilozhenii-django/)
+
+## How to make chat:
+### - [click here](https://www.geeksforgeeks.org/realtime-chat-app-using-django/)
