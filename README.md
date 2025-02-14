@@ -16,3 +16,6 @@
 
 ## How to make chat:
 ### - [click here](https://www.geeksforgeeks.org/realtime-chat-app-using-django/)
+
+## How to make documents
+### - [click here](https://simpleisbetterthancomplex.com/tutorial/2016/08/01/how-to-upload-files-with-django.html)
