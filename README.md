@@ -19,3 +19,6 @@
 
 ## How to make documents
 ### - [click here](https://simpleisbetterthancomplex.com/tutorial/2016/08/01/how-to-upload-files-with-django.html)
+
+## How to integrate telegram_Bot to GitLab
+### - [click here](https://docs.struchkov.dev/gitlab-notification/ru/latest/#key-features)
