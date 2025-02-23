@@ -22,3 +22,6 @@
 
 ## How to integrate telegram_Bot to GitLab
 ### - [click here](https://docs.struchkov.dev/gitlab-notification/ru/latest/#key-features)
+
+## How to make different 2oAuthentifications
+### - [click here](https://habr.com/ru/companies/otus/articles/855086/)
